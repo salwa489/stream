@@ -1,0 +1,11 @@
+seaborn
+scikit-learn
+scikit-learn-intelex
+pandas
+pandas-profiling
+pycaret[full]
+streamlit
+mlflow
+matplotlib
+pandas_profiling
+streamlit_pandas_profiling
