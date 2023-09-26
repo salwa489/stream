@@ -9,3 +9,4 @@ mlflow
 matplotlib
 pandas_profiling
 streamlit_pandas_profiling
+missingno
